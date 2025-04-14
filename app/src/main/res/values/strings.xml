@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zeneblog</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztáció</string>
+    <string name="email_address">Email cím</string>
+    <string name="password_confirm">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="blogreadingactivity">BlogReadingActivity</string>
+    <string name="featureComing">Fejlesztés alatt 💻</string>
+</resources>

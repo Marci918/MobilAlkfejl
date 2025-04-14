@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319017614257",
+    "project_id": "androidmusicblog",
+    "storage_bucket": "androidmusicblog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319017614257:android:5cfe4b882d2ddc7196db90",
+        "android_client_info": {
+          "package_name": "com.example.zeneblog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-WwRBkymXgSVMTr41eME7TjooypD7iG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
