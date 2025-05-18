@@ -83,7 +83,7 @@ public class RegisterActivity extends AppCompatActivity {
     }
 
     private void startBlogging(){
-        Intent intent = new Intent(this, BlogReadingActivity.class);
+        Intent intent = new Intent(this, BlogListActivity.class);
         startActivity(intent);
     }
 

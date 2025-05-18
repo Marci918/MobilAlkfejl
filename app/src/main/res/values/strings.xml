@@ -9,4 +9,10 @@
     <string name="cancel">Mégse</string>
     <string name="blogreadingactivity">BlogReadingActivity</string>
     <string name="featureComing">Fejlesztés alatt 💻</string>
+    <string name="addPostButton">Bejegyzés hozzáadása</string>
+    <string name="recycleViewDescription">Recycle view leírás</string>
+    <string name="savePostButton">Bejegyzés mentése</string>
+    <string name="postContentHint">Bejegyzés tartalma</string>
+    <string name="postTitleHint">Bejegyzés címe</string>
+    <string name="backButton">Vissza</string>
 </resources>
